@@ -1,16 +1,14 @@
-### Hi there 👋
+---
 
-<!--
-**smrutiofficial/smrutiofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=smrutiofficial&theme=dracula&show_icons=true" alt="smrutiofficial" width="700"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"><img src="http://github-readme-streak-stats.herokuapp.com?user=smrutiofficial&theme=dracula&hide_border=false" alt ="smrutiofficial" width="700"/>
+    
+
+<p align="right"><img src="https://activity-graph.herokuapp.com/graph?username=smrutiofficial" alt ="smrutiofficial" width="700"/></p>
+
+
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
