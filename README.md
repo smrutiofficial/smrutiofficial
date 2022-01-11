@@ -149,6 +149,6 @@
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=smrutiofficial" alt ="smrutiofficial" width="700"/></p>
 
-<p align="center"><img src="https://github.com/smrutiofficial/smrutiofficial/assests/github-contribution-grid-snake.svg" alt ="snake game"></img></p>
+<p align="center"><img src="https://raw.githubusercontent.com/smrutiofficial/smrutiofficial/main/assets/github-contribution-grid-snake.svg" alt ="snake game"></img></p>
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
