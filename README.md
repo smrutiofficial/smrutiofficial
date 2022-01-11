@@ -1,6 +1,5 @@
 
 # Hi, I'm Smruti ! 👋
-
 ## 🚀 About Me
  - I'm a full stack developer...
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg" style="vertical-align:top">
@@ -17,6 +16,7 @@
  
 
 
+<p align="left"><img src="https://raw.githubusercontent.com/smrutiofficial/smrutiofficial/main/assets/gitbg.gif" alt ="intro"></img></p>
 
 
 
@@ -116,7 +116,6 @@
 <!--     ----------------------------------------------------------------------------------- -->
 </p>
 <!-- ======================================================================================================== -->
----
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
