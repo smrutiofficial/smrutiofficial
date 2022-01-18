@@ -3,8 +3,8 @@
 ## 🚀 About Me
  - I'm a full stack developer...
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg" style="vertical-align:top">
-- 🔭 I’m currently working on
-- Interested in Web development.
+- 🔭 I’m currently learning c# for 3d game development. => (Panding... stage)
+- Interested in full-stack web,android & ios development.
 - 🌱 I’m currently learning Machine learning & AI.
 - I’m learning 3d webdevelopement useing three.js too.
 - I love exploring and learning new skills as well as implement those in my projects.
