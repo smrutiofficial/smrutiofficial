@@ -3,8 +3,7 @@
 ## 🚀 About Me
  - I'm a full stack developer...
 - Interested in full-stack web,android .
-- 🌱 I’m currently learning Machine learning & AI.
-- I’m learning 3d webdevelopement useing three.js too.
+- 🌱 I’m currently flutter.
 - I love exploring and learning new skills as well as implement those in my projects.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
